@@ -1,4 +1,4 @@
-Arduino_IR_Remote
+IRremote for Arduino
 =================
 
 Özelleştirilebilir Kumanda Sistemi
